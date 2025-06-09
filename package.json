@@ -1,7 +1,8 @@
 {
-  "name": "langbit-proposal",
+  "name": "leng-bit",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://leng-bit.vercel.app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

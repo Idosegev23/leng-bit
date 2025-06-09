@@ -1,3 +1,11 @@
 {
-  "buildCommand": "npm run build"
+  "name": "leng-bit",
+  "version": 2,
+  "buildCommand": "npm run build",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
 } 
