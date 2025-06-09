@@ -1,8 +1,3 @@
 {
-  "functions": {
-    "app/api/send-approval/route.js": {
-      "maxDuration": 10
-    }
-  },
-  "outputDirectory": ".next"
+  "buildCommand": "npm run build"
 } 
